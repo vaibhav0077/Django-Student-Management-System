@@ -7,14 +7,12 @@ Technology used : Django (Python Framework), SQLite, HTML5, Materialize CSS.
 
 ## ScreenShots
 
-#### 1. Landing Page
-![](images/landing.PNG)
 
-#### 2. Login Page
+#### 1. Login Page
 ![](images/login.PNG)
 
-#### 3. Student-Dashboard Page
+#### 2. Student-Dashboard Page
 ![](images/student.PNG)
 
-#### 4. Teacher-Dashboard Page
+#### 3. Teacher-Dashboard Page
 ![](images/teacher.PNG)
